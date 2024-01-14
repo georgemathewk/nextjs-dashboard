@@ -47,7 +47,7 @@ export default function Page() {
             alt="Hero Image"
             width={560}
             height={620}
-            className="block md:hidden"
+            className="block   md:hidden"
           />
         </div>
       </div>
